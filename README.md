@@ -2,7 +2,7 @@
 
 I'm Thomas Blanchet 🧔🏼‍♂️. I'm a data scientist and economist:
 
-- 👨🏼‍💻 I'm currently the statistical coordinator at the [World Inequality Lab](https://wid.world/) at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/). In 2021-2022, I worked for the [University of California, Berkeley](https://www.berkeley.edu/).
+- 👨🏼‍💻 I'm currently data scientist at [Untapped Global](https://untapped-global.com/). Before, I was the statistical coordinator for the [World Inequality Lab](https://wid.world/) at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), and in 2021-2022, I worked for the [University of California, Berkeley](https://www.berkeley.edu/).
 - 💻 I mostly work with R, Python, and Stata. And sometimes with Java and C++.
 - 🌐 I also have experience coding for the web, using HTML/CSS/JavaScript and React.
 - 🎓 I have a Master's in Data Science from [ENSAE ParisTech](https://www.ensae.fr/en) and a Ph.D. in Economics from the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/). Over the years, I've done work in many areas of data science, including descriptive analysis, machine learning, predictive modeling, causal inference, bayesian methods, time series analysis, stochastic calculus, extreme value theory, etc.
