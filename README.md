@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm **Thomas Blanchet** 🧔🏼‍♂️, a data and software engineer with a background in statistics and economics.
+I'm **Thomas Blanchet** 🧔🏼‍♂️, a data scientist and software engineer with a background in statistics and economics.
 
 - 👨🏼‍💻 I'm currently working at [Untapped Global](https://untapped-global.com/). Previously, I was an economist and research engineer at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), and at the [University of California, Berkeley](https://www.berkeley.edu/).
 - 💻 These days, I primarily work with Python, but over the years I've also worked with R, Java, C++, and Rust. I've done data engineering work with PostgreSQL, Spark, and Snowflake, as well as front-end work with React.
